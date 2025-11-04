@@ -15,7 +15,14 @@ Please note that dayOfTheWeek() ranges from 0 to 6 inclusive with 0 being 'Sunda
 ## Compatibility
 
 MCU                | Tested Works | Doesn't Work | Not Tested  | Notes
------------------- | :----------: | :----------: | :---------: | -----
+
+| :
+
+-: | :
+
+-: | :
+
+: | -----
 Atmega328 @ 16MHz  |      X       |             |            |
 Atmega328 @ 12MHz  |      X       |             |            |
 Atmega32u4 @ 16MHz |      X       |             |            | Use SDA/SCL on pins D3 &amp; D2
